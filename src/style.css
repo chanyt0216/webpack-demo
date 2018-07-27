@@ -1,4 +1,33 @@
+@font-face {
+  font-family: "Rotobo";
+  src: url("./Roboto-Black.ttf");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Rotobo";
+  src: url("./Roboto-Bold.ttf");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Rotobo";
+  src: url("./Roboto-Medium.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Rotobo";
+  src: url("./Roboto-Light.ttf");
+  font-weight: 300;
+  font-style: normal;
+}
+
 .hello {
   color: red;
+  font-family: "Rotobo";
   background: url("./icon.png");
 }
